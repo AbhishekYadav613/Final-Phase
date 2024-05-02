@@ -12,7 +12,7 @@ import java.util.List;
 public class TC_LG_005 extends BaseTest{
 
     /**
-     * CaseID: TC_LG_005
+     * CaseID: TC_LG_005 (need review)
      * Validate Logout option is not displayed under 'My Account' menu before logging in.
      */
 
